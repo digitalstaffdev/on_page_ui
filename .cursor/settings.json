@@ -1,0 +1,6 @@
+{
+  "project": "on_page_ui",
+  "description": "On-Page Optimization Agent — Frontend (Next.js 14 + React + Tailwind + Auth.js)",
+  "deployTarget": "Vercel",
+  "relatedRepos": ["on_page_api", "on_page_db"]
+}
